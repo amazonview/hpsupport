@@ -1,1 +1,1 @@
-# hpsmart
+# hpsupport
