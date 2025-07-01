@@ -10,7 +10,7 @@ How Do I Connect My HP 123 Printer to Wi-Fi?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_11.png
    :width: 350px
    :align: center
    :height: 100px
