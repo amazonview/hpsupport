@@ -1,5 +1,5 @@
 ##################
-How Do I Connect My HP 123 Printer to Wi-Fi?
+How to Connect Your HP Printer to Wi-Fi via 123.hp.com
 ##################
 
 .. meta::
